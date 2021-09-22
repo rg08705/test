@@ -1,4 +1,4 @@
-#' Source or download data using ATRI portal api
+#' Source or download data using ATRI portal api 
 #'
 #' A wrapper to source EDC data, get list of items in Docs topics, or download Docs files using the ATRI portal api
 #'
