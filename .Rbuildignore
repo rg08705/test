@@ -1,0 +1,11 @@
+.gitignore
+tikzDictionary$
+aux$
+log$
+out$
+README.md
+Makefile
+.*.lb
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
