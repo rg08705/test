@@ -1,4 +1,4 @@
-Package: ATRIDMtools
+Package: test
 Type: Package
 Title: Tools for sourcing and exporting ATRI Data
 Version: 0.1.0
