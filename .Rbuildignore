@@ -1,13 +1,5 @@
 .gitignore
-tikzDictionary$
-aux$
-log$
-out$
-vignettes/.*.pdf
-vignettes/figure
-vignettes/cache
 README.md
 Makefile
-.*.lb
 ^.*\.Rproj$
 ^\.Rproj\.user$

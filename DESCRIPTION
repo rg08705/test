@@ -1,12 +1,10 @@
 Package: test
 Type: Package
 Title: Tools for sourcing and exporting ATRI Data
-Version: 0.1.0
+Version: 1.0.0
 Author: ATRI DM <dm-l@atrihub.io <dm-l@atrihub.io>
 Maintainer: ATRI DM <dm-l@atrihub.io <dm-l@atrihub.io>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: R functions used to provide DM with new customizations to workflows and streamline certain programming tasks
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1

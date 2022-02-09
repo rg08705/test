@@ -2,27 +2,5 @@
 .Rhistory
 .Rapp.history
 
-# Example code in package build process
-*-Ex.R
 # RStudio files
 .Rproj.user/
-# Produced vignettes
-*.pdf
-*.tex
-*.aux
-*.bbl
-*.blg
-*.toc
-*.log
-*.out
-*.lb
-# Data files
-*.Rd
-*.rda
-*.Rda
-*.xls
-*.csv
-*.xlsx
-*.json
-inst/doc
-.Rproj.user
